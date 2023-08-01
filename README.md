@@ -24,6 +24,8 @@ Output Options
 
 Users have the choice to output data to a text file instead of the default output log.
 
+Please replace these patch files into your cloned git folders: https://drive.google.com/drive/folders/1EWMU6q7QvZasC0pYG7IFaT5bzbgB2xYJ?usp=sharing
+
 User Guidance
 
 For detailed user guidance, please refer to the User Guidance Document https://docs.google.com/document/d/1J-dv9IMezbZtarKjENWA8B82AtUn23zi_eShsdpj7hc/edit?usp=sharing.
